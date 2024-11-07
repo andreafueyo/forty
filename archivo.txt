@@ -6,3 +6,4 @@ modificación realizada por el usuario 1
 >>>>>>> rama-usuario1
 cambios del usuario 1
 cambios del usuario 2
+cambios del usuario 1
