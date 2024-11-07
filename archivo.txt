@@ -1,2 +1,6 @@
 Contenido inicial del archivo
+<<<<<<< HEAD
 modificación realizada por el usuario 2
+=======
+modificación realizada por el usuario 1
+>>>>>>> rama-usuario1
